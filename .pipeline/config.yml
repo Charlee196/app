@@ -57,7 +57,7 @@ stages:
     cfAppName:"app"
     cfCrendetialsId:"deploy-to-cf"
     uiVeri5ExecuteTests:false
-
+  #pooja 
   Release:
     cfTargets:
       - org: 'ab4767b0trial'
